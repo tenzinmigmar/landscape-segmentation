@@ -49,4 +49,4 @@ Feel free to open issues and pull requests for any improvements.
 MIT License
 
 ## Acknowledgments
-- Dataset sourced from Kaggle: [Women's E-Commerce Clothing Reviews](https://www.kaggle.com/datasets/romainpessia/artificial-lunar-rocky-landscape-dataset)
+- Dataset sourced from Kaggle: [Lunar Rocky Landscape Dataset](https://www.kaggle.com/datasets/romainpessia/artificial-lunar-rocky-landscape-dataset)
